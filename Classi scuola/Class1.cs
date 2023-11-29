@@ -15,6 +15,8 @@ namespace Classi_scuola
         public DateTime Datan;
         public DateTime Datav;
         public float voto;
+        public string id;
+        public string descrizione;
         
 
     }
